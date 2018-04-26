@@ -1,0 +1,72 @@
+#cajon {
+	border:4px solid brown;
+	width:450px;
+	padding:15px;
+	background-color:lightyellow;
+	border-radius:20px;
+	box-shadow:10px 10px 15px gray;
+	margin:auto;
+  }
+#lbl {	text-align:-moz-right;}
+#titulot {background-color:palegreen; border:2px solid red;}
+.boton {margin:auto;
+	width:80px;  height:30px; background-color:tomato; border-radius:8px;margin:0px 5px 5px;
+  }
+#botones {
+	margin:auto;
+	width:-moz-max-content
+  }
+table {margin:auto;}
+ /*propiedades para el login  I(Cuycla_c) */
+#cajita {
+	border:2px solid brown;
+	padding:15px;
+	background-color:paleturquoise;
+	box-shadow:10px 10px 15px gray;
+	margin:auto;
+  }envio
+.cajitas { 
+	border:1px solid brown;
+	padding:15px;
+	box-shadow:10px 10px 15px gray;
+	margin:auto;
+	box-shadow:unset;
+  }
+.cajitas:hover {box-shadow:0px 0px 15px gray;}
+.cajitas input{
+	border:1px solid brown;
+	height:2em;
+	width:30em;
+  }
+.cajitas input:hover{box-shadow:0px 0px 15px gray;}
+#loginbox{
+	position:absolute;
+	top:30%;
+	left:40%;
+	border:5px solid brown;
+	padding:15px;
+	background-color:lightyellow;
+	border-radius:20px;
+	box-shadow:10px 10px 15px gray;
+	margin:auto;
+  }
+#envio {
+	border:1px solid brown;
+	position:absolute;
+	margin:auto;
+	float:right;
+  }
+.envio:hover {box-shadow:0px 0px 15px gray;}
+#botonesb{	margin:auto;
+	width:-moz-max-content
+  }
+.cajitass {
+	width:200px;
+}
+#nambre {
+	font-family:"Comic Sans MS";
+	font-size: 2em;
+	font-style: italic;
+	font-weight: bold;
+	color: brown;
+}
